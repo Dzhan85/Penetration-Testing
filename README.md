@@ -86,7 +86,7 @@ A collection of awesome penetration testing resources
 * [evilgrade](https://github.com/infobyte/evilgrade) - The update explotation framework
 * [commix](https://github.com/stasinopoulos/commix) - Automated All-in-One OS Command Injection and Exploitation Tool
 * [routersploit](https://github.com/reverse-shell/routersploit) - Automated penetration testing software for router
-* [redsnarf] (https://github.com/nccgroup/redsnarf) - Post-exploitation tool for grabbing credentials
+* [redsnarf](https://github.com/nccgroup/redsnarf) - Post-exploitation tool for grabbing credentials
 
 #### Docker for Penetration Testing
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -232,6 +232,7 @@ A collection of awesome penetration testing resources
 #### Reverse Engineering Tools
 * [IDA Pro](https://www.hex-rays.com/products/ida/) - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
 * [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) - The freeware version of IDA v5.0
+* [Binary Ninja](https://binary.ninja/) - Up and coming commercial disassembler.
 * [WDK/WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx) - Windows Driver Kit and WinDbg
 * [OllyDbg](http://www.ollydbg.de/) - An x86 debugger that emphasizes binary code analysis
 * [Radare2](http://rada.re/r/index.html) - Opensource, crossplatform reverse engineering framework
